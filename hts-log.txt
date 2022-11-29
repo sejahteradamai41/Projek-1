@@ -1,0 +1,23 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 16 Nov 2022 15:10:26 at http://7oroof.com/demos/babette/home-cafe.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://7oroof.com/demos/babette/home-cafe.html -O1 "C:\Template\Damai" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:10:28	Warning: 	Moved Permanently for 7oroof.com/robots.txt
+15:10:28	Warning: 	Redirected link is identical because of 'URL Hack' option: 7oroof.com/robots.txt and https://7oroof.com/robots.txt
+15:10:28	Warning: 	Warning moved treated for 7oroof.com/robots.txt (real one is https://7oroof.com/robots.txt)
+15:19:35	Error: 	"Not Found" (404) at link https://7oroof.com/demos/babette/assets/css/images/ui-icons_444444_256x240.png (from 7oroof.com/demos/babette/assets/css/libraries.css)
+15:19:35	Error: 	"Not Found" (404) at link https://7oroof.com/demos/babette/assets/css/images/ui-icons_555555_256x240.png (from 7oroof.com/demos/babette/assets/css/libraries.css)
+15:19:35	Error: 	"Not Found" (404) at link https://7oroof.com/demos/babette/assets/css/images/ui-icons_ffffff_256x240.png (from 7oroof.com/demos/babette/assets/css/libraries.css)
+15:19:35	Error: 	"Not Found" (404) at link https://7oroof.com/demos/babette/assets/css/images/ui-icons_777620_256x240.png (from 7oroof.com/demos/babette/assets/css/libraries.css)
+15:19:35	Error: 	"Not Found" (404) at link https://7oroof.com/demos/babette/assets/css/images/ui-icons_cc0000_256x240.png (from 7oroof.com/demos/babette/assets/css/libraries.css)
+15:19:35	Error: 	"Not Found" (404) at link https://7oroof.com/demos/babette/assets/css/images/ui-icons_777777_256x240.png (from 7oroof.com/demos/babette/assets/css/libraries.css)
+15:19:35	Error: 	"Not Found" (404) at link https://7oroof.com/demos/babette/assets/css/owl.video.play.png (from 7oroof.com/demos/babette/assets/css/libraries.css)
+15:19:36	Error: 	"Not Found" (404) at link https://7oroof.com/demos/babette/assets/images/shop/thumbs/1.png (from 7oroof.com/demos/babette/shop.html)
+15:19:36	Error: 	"Not Found" (404) at link https://7oroof.com/demos/babette/assets/images/shop/thumbs/2.png (from 7oroof.com/demos/babette/shop.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 9 minutes 10 seconds : 160 links scanned, 150 files written (14377762 bytes overall) [13733332 bytes received at 24969 bytes/sec], 1273722 bytes transferred using HTTP compression in 36 files, ratio 17%, 2.2 requests per connection
+(9 errors, 3 warnings, 0 messages)
